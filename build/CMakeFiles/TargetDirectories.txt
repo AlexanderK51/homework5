@@ -1,0 +1,5 @@
+/home/smuser/homework5/build/CMakeFiles/random_shuffle.dir
+/home/smuser/homework5/build/CMakeFiles/chrono_example.dir
+/home/smuser/homework5/build/CMakeFiles/statistics.dir
+/home/smuser/homework5/build/CMakeFiles/edit_cache.dir
+/home/smuser/homework5/build/CMakeFiles/rebuild_cache.dir
